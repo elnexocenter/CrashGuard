@@ -66,6 +66,14 @@ Para que los protocolos de estabilidad surtan efecto, el entorno debe cumplir co
   Desarrollado para la comunidad Gaming | 2026
 </div>
 
+
+
+
+
+
+
+
+
 <div align="center">
   <img src="https://i.imgur.com/uDn9Y8N.png" alt="CrashGuard Logo" width="100">
   
