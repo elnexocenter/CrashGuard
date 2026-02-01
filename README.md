@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Versi%C3%B3n-1.0_Stable-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/S.O.-Windows_10_/_11-0078D4?style=for-the-badge&logo=windows" alt="OS">
   <img src="https://img.shields.io/badge/Lenguaje-Batch-4EAA25?style=for-the-badge" alt="Language">
+
 </div>
 
 ---
